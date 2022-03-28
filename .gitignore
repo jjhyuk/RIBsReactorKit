@@ -62,8 +62,7 @@ playground.xcworkspace
 # Carthage
 #
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
-**/Carthage/Checkouts/
-**/Carthage/Build/
+
 
 # Accio dependency management
 .accio/
@@ -90,7 +89,4 @@ iOSInjectionProject/
 .idea
 node_modules
 .DS_Store
-
-**/Brewfile.lock.json
-**/RIBsReactorKit.xcodeproj/*
 
